@@ -104,3 +104,6 @@ Add time-series sales trend analysis
 
 ### 📈 Yearly Sales Trend
 ![Yearly Sales Trend](yearly_sales_trend.png)
+
+### 📈 Yearly Sales Trend
+![Profit Vs Discount](profit_vs_discount.png)
