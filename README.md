@@ -65,5 +65,27 @@ $286,397
    ```bash
    pip install pandas matplotlib
 3.Run:
-```bash
+   ```bash
    python analysis.py
+
+##🎯 Project Objective
+
+This project demonstrates:
+
+Data cleaning
+
+Exploratory Data Analysis (EDA)
+
+Business insight extraction
+
+Data visualization
+
+Git version control
+
+##🚀 Future Improvements
+
+Add interactive dashboards (Streamlit / Power BI)
+
+Perform predictive analysis
+
+Add time-series sales trend analysis
