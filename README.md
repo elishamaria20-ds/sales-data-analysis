@@ -107,3 +107,5 @@ Add time-series sales trend analysis
 
 ### 📈 Yearly Sales Trend
 ![Profit Vs Discount](profit_vs_discount.png)
+
+I analysed how discount strategies impact profitability and higher discounts often reduce overall profits
