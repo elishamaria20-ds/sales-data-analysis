@@ -101,3 +101,6 @@ Add time-series sales trend analysis
 
 ### 🏆 Top 5 States by Sales
 ![Top 5 States](top_5_states.png)
+
+### 📈 Yearly Sales Trend
+![Yearly Sales Trend](yearly_sales_trend.png)
