@@ -67,6 +67,7 @@ $286,397
 3.Run:
    ```bash
    python analysis.py
+   ```
 
 ##🎯 Project Objective
 
