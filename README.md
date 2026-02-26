@@ -64,5 +64,6 @@ $286,397
 2. Install required libraries:
    ```bash
    pip install pandas matplotlib
-3.Run\
-python analysis.py
+3.Run:
+```bash
+   python analysis.py
