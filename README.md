@@ -90,3 +90,14 @@ Add interactive dashboards (Streamlit / Power BI)
 Perform predictive analysis
 
 Add time-series sales trend analysis
+
+## 📸 Project Screenshots
+
+### 📊 Sales by Category
+![Sales by Category](sales_by_category.png)
+
+### 💰 Profit by Category
+![Profit by Category](profit_by_category.png)
+
+### 🏆 Top 5 States by Sales
+![Top 5 States](top_5_states.png)
