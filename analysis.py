@@ -60,3 +60,12 @@ plt.xlabel("Year")
 plt.ylabel("Total Sales")
 plt.savefig("yearly_sales_trend.png")
 plt.show()
+
+# Profit vs Discount analysis
+plt.figure()
+plt.scatter(df["Discount"], df["Profit"])
+plt.title("Profit vs Discount")
+plt.xlabel("Discount")
+plt.ylabel("Profit")
+plt.savefig("profit_vs_discount.png")
+plt.show()
