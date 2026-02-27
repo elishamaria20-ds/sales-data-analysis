@@ -9,10 +9,11 @@ scaler=joblib.load("scaler.pkl")
 feature_names=joblib.load("features.pkl")
 
 
+
 st.set_page_config(
     page_title="Sales Profit Prediction",
     page_icon="📊",
-    layout="centered"
+    layout="wide"
 )
 
 st.title("📊 Sales Profit Prediction App")
@@ -54,3 +55,7 @@ input_scaled=scaler.transform(input_df)
 if st.button("Predict Profit"):
     prediction=model.predict(input_scaled)
     st.success(f"Estimated profit: ${prediction[0]:.2f}")
+
+
+st.subheader("📈 Model Feature Importance")
+st.image("feature_importance.png")
