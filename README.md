@@ -111,4 +111,4 @@ Add time-series sales trend analysis
 ## I analysed how discount strategies impact profitability and higher discounts often reduce overall profits
 
 ## Streamlit App:
-https://your-app-link.streamlit.app
+https://sales-data-analysis-zks56wz6n4f5arnlzgvpfd.streamlit.app/
