@@ -109,4 +109,4 @@ Add time-series sales trend analysis
 ![Profit Vs Discount](profit_vs_discount.png)
 
 ## I analysed how discount strategies impact profitability and higher discounts often reduce overall profits
->>>>>>> 7b35fda (Added streamlit ML app)
+
